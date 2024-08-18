@@ -80,7 +80,7 @@ pip install d2l torch torchvison
 
 - [22 池化层](): [chapter_convolutional-neural-networks\pooling.ipynb](chapter_convolutional-neural-networks\pooling.ipynb)
 
-- [23 经典卷积神经网络 LeNet](): [chapter_convolutional-modern\alexnet.ipynb](chapter_convolutional-modern\alexnet.ipynb) 
+- [23 经典卷积神经网络 LeNet](): [chapter_convolutional-neural-networks\lenet.ipynb](chapter_convolutional-neural-networks\lenet.ipynb) 
 
 - [24 深度卷积神经网络 AlexNet](): [chapter_convolutional-modern\alexnet.ipynb](chapter_convolutional-modern\alexnet.ipynb)
 
