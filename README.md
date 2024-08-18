@@ -31,8 +31,15 @@ pip install d2l torch torchvison
 
 ## d2l库补丁
 
-由于d2l各个版本的torch实现都缺少部分函数与类的定义，本仓库以`1.0.3`版本的d2l库torch实现为基础进行修改与完善，敬请期待！
+由于d2l各个版本的torch实现都缺少部分函数与类的定义，本仓库以`1.0.3`版本的d2l库torch实现为基础进行修改与完善。
 
+> 请将本仓库根目录下的`torch.py`文件复制到上一步创建的`d2l环境`中的`d2l库`中，替换掉库中的`torch.py。
+
+`d2l环境`中的`d2l库`目录如下所示：
+```bash
+C:\Users\username\anaconda3\envs\d2l\Lib\site-packages\d2l
+```
+请将`username`修改为`你的用户名`，`第一个d2l`修改为你为`d2l环境`命名的`环境名称`。
 ## 目录
 
 结构：
