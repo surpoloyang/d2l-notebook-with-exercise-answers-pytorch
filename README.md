@@ -33,7 +33,8 @@ pip install d2l torch torchvison
 
 由于d2l各个版本的torch实现都缺少部分函数与类的定义，本仓库以`1.0.3`版本的d2l库torch实现为基础进行修改与完善。
 
-请将本仓库根目录下的`torch.py`文件复制到上一步创建的`d2l环境`中的`d2l库`中，替换掉库中的torch.py。
+请将本仓库根目录下的`torch.py`文件复制到上一步创建的`d2l环境`中的`d2l库`中，替换掉库中的torch.py，并删除本仓库根目录下的`torch.py`文件。
+
 
 `d2l环境`中的`d2l库`目录如下所示：
 ```bash
