@@ -2,3 +2,4 @@
 data/
 # 忽略.vscode目录下的内容
 .vscode/
+.idea/
